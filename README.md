@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Junjie Wang
-- 👀 I’m interested in robotic controller design
+- Hi, I’m Junjie Wang
+- I’m interested in robotic controller design
